@@ -16,7 +16,7 @@ div.relative {
 
 .logo {
     
-    color: #0D63DB!important;
+    color: #BBF3FC!important;
     font-weight: bold;
 }
 .logo:hover {
@@ -34,10 +34,10 @@ div.relative {
     border-top-width: 0.5rem;
     border-left-width: 0.5rem;
     border-right-width: 0.5rem;
-    border-color: #BBF3FC;
+    border-color: #0D63DB;
 }
 .bg-card {
-    background-color: #BBF3FC;
+    background-color: #0D63DB;
 }
 
 .pos-fix {
@@ -46,8 +46,8 @@ div.relative {
     position: fixed;
     left: 0;
     width: 100%;
-    background-color: #BBF3FC!important;
-    color:  #0D63DB!important;
+    background-color: #0D63DB!important;
+    color:  #BBF3FC!important;
 } 
 .mtop {
     margin-top: 5rem;
